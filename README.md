@@ -1,8 +1,3 @@
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" />
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,7 +11,7 @@
 <!-- Profile Views -->
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=JaskaranSaini05&label=Profile%20views&color=0e75b6&style=flat"
     alt="jaskaran-profile-views"
   />
 </p>
@@ -72,7 +67,7 @@ Civic complaint reporting platform enabling real-time issue tracking, a dedicate
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td align="center"><a href="https://github.com/your-username" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40"/></a></td>
+<td align="center"><a href="https://github.com/JaskaranSaini05" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.linkedin.com/in/jaskaran-singh-924515423" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a></td>
 </tr>
 </table>
@@ -115,7 +110,7 @@ Civic complaint reporting platform enabling real-time issue tracking, a dedicate
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&column=7&no-frame=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=JaskaranSaini05&theme=onedark&column=7&no-frame=true&margin-w=10"
     alt="GitHub Trophy"
   />
 </p>
@@ -127,12 +122,12 @@ Civic complaint reporting platform enabling real-time issue tracking, a dedicate
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=JaskaranSaini05&show_icons=true&theme=transparent&hide_border=true"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://streak-stats.demolab.com?user=your-username&theme=transparent&hide_border=true&short_numbers=true"
+  src="https://streak-stats.demolab.com?user=JaskaranSaini05&theme=transparent&hide_border=true&short_numbers=true"
   alt="GitHub Streak"
 />
 
@@ -144,7 +139,7 @@ Civic complaint reporting platform enabling real-time issue tracking, a dedicate
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JaskaranSaini05&theme=github-compact"
     alt="GitHub Activity Graph"
   />
 </p>
